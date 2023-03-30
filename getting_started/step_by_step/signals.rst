@@ -36,6 +36,7 @@ We will now use a signal to make our Godot icon from the previous lesson
 
 .. Example
 
+
 Scene setup
 -----------
 
